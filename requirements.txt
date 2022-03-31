@@ -2,6 +2,5 @@ numpy
 textblob
 nltk
 torch
-json
 model
 flask
